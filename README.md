@@ -64,10 +64,7 @@ I am a passionate **Full-Stack Developer** who loves bridging the gap between hi
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
-</p>
+
 
 ---
 
