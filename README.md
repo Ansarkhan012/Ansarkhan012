@@ -1,63 +1,72 @@
 <h1 align="center">Hi 👋, I'm Ansar Khan</h1>
-<h3 align="center">Frontend Developer | React & UI Enthusiast</h3>
+<h3 align="center">Full-Stack JavaScript Developer | React.js • Node.js • .NET Core | SQL Expert</h3>
 
 <p align="center">
-  I build clean, responsive, and accessible web interfaces with modern frontend tools.
+  I engineer high-performance, scalable web applications and seamless, interactive user interfaces.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** who loves turning designs into smooth, interactive user experiences.  
-I focus on **clean code, performance, and accessibility**, and I enjoy learning modern frontend technologies.
+I am a passionate **Full-Stack Developer** who loves bridging the gap between high-fidelity frontends and robust, secure backend architectures. I specialize in the modern JavaScript ecosystem while also building enterprise-grade backend systems.
 
 ### 💡 What I do best:
-- Build responsive & user-friendly UIs  
-- Write clean, maintainable frontend code  
-- Convert designs into pixel-perfect layouts  
+- **Frontend Mastery:** Building fast, responsive, and dynamic UIs with React and Next.js.
+- **Backend Architecture:** Developing scalable APIs using Node.js and ASP.NET Core.
+- **Database Optimization:** Designing clean relational database models using SQL Server and PostgreSQL.
+- **Production-Ready Code:** Writing maintainable, semantic, and highly optimized code.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- **Frameworks & Libraries:** React.js (Hooks, Context API)  
-- **Styling:** Tailwind CSS, Bootstrap 5  
-- **Tools:** Git, GitHub, VS Code  
-
+### 💻 Frontend & Styling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,html" alt="Frontend Tech" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,supabase,postgres,mysql" alt="Backend Tech" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
 
 ---
 
-## 📌 Currently Working On
+## 📌 Currently Working On & Leading
 
-- Strengthening **React.js & TypeScript**
-- Building real-world projects using **Tailwind CSS**
-- Improving **UI/UX & frontend best practices**
+- 🛠️ Serving as **Team Lead** for **Sahulat 360** — a localized service marketplace.
+- 🚀 Advancing in **Next.js Server-Side Features** & **Advanced .NET Core APIs**.
+- 📐 Optimizing **Data Structures & Algorithms (DSA)** patterns on LeetCode.
 
 ---
 
 ## 🔥 Featured Projects
 
-- 🔹 **Responsive Portfolio Website**  
-  👉 https://github.com/your-username/portfolio
+- 🔹 **Sahulat 360 (Service Marketplace)**  
+  *Team Lead | React.js, .NetAPi, Database System*  
+  👉 [GitHub Repository](https://github.com/Vission-Sahulat/Sahulat-360)
 
-- 🔹 **React Todo App with Tailwind CSS**  
-  👉 https://github.com/your-username/todo-app
+- 🔹 **Muhammad Islamic School Platform**  
+  *Fully responsive frontend for an educational platform using Next.js & Tailwind.*  
+  👉 [GitHub Repository](https://github.com/Ansarkhan012/Muhammad-islamic-school)
 
-- 🔹 **Bootstrap Blog Template**  
-  👉 https://github.com/your-username/blog-template
+- 🔹 **Full-Stack E-Commerce Platform**  
+  *End-to-end client project with custom product routing and state management.*  
+  👉 [GitHub Repository](https://github.com/Ansarkhan012/clothe-commerce)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -65,9 +74,8 @@ I focus on **clean code, performance, and accessibility**, and I enjoy learning 
 ## 📫 Connect With Me
 
 - 📧 Email: **ansarkhanaptech1234@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio-url.com
+- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/ansar-khan-53b13b358/)
+- 💻 LeetCode: [![LeetCode](https://leetcode.com/u/AnsarDev/)
 
 ---
-
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Feel free to explore my repositories and let's collaborate on something big!*
